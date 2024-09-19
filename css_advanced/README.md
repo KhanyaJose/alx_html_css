@@ -1,1 +1,1 @@
-This directory contains the index.html file for 'smile school'.
+This directory contains the files for 'smile school'. The 'smile school' project is based on this https://www.figma.com/design/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?node-id=0-1&node-type=canvas&t=AyG8iGUkQV1o9Umx-0 
