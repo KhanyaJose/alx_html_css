@@ -7,7 +7,7 @@ This "Headphones Project" is a modern and responsive web application designed to
 - **Navigation**: The top right of the first screen has three navigations: what we do, our results, contact us. These navigations navigate you around the website..
 - **Aesthetics**: This project has a pleasing aesthetic to the eye.
 - **Contact Form**: A functional contact form.
-- **Animation**: Animated features are present in the second live demo.
+- **Animation**: Animated features are present in the "What we do" section of the second live demo.
 
 ## Technologies Used
 - HTML5
