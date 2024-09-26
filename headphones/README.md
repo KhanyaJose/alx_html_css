@@ -14,3 +14,6 @@ This "Headphones Project" is a modern and responsive web application designed to
 - GitHub Pages for hosting
 
 ## Live Demo
+https://khanyajose.github.io/alx_html_css/headphones/4-index.html (Resembles https://www.figma.com/design/TwFqqWGYvNYvxZxhdWXv4H/Holberton-School---Headphone-company?node-id=0-1&t=xb11ajaFD3NOLZfG-1 )
+
+https://khanyajose.github.io/alx_html_css/headphones/7-index.html (Has animated features)
