@@ -8,7 +8,7 @@ main {
     flex: auto;
 }
 article {
-    flex: 2;
+    flex: 2; 
     overflow-y: auto;
 }
 aside {
